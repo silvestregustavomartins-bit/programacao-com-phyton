@@ -1,2 +1,7 @@
-# programa-o-com-phyton
-repositorio para resgistrar aulas e atividades da materia de phyton
+# programação com phyton
+## primeiro IA
+** phyton **
+* Italico *
+* - lista
+  - lista
+``` print("ola mundo") ```
